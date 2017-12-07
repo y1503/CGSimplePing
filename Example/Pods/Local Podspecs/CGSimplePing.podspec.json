@@ -1,0 +1,22 @@
+{
+  "name": "CGSimplePing",
+  "version": "0.1.0",
+  "summary": "A short description of CGSimplePing.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/鱼鱼/CGSimplePing",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "鱼鱼": "yuchengguang@zto.cn"
+  },
+  "source": {
+    "git": "https://github.com/鱼鱼/CGSimplePing.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CGSimplePing/Classes/**/*"
+}
